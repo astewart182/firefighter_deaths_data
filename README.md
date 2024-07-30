@@ -1,6 +1,6 @@
 # firefighter_deaths_data
 
-# This is a project investigating on-duty deaths of United States firefighters, done in R. The goal for this project is to examine the top causes of on-duty deaths for firefighters, which will hopefully lead to an increased understanding of what can be done to reduce their risk for these causes.
+#This is a project investigating on-duty deaths of United States firefighters, done in R. The goal for this project is to examine the top causes of on-duty deaths for firefighters, which will hopefully lead to an increased understanding of what can be done to reduce their risk for these causes.
 
 
 #The data was downloaded from the U.S. Fire Administration website. Additional information on inclusion criteria for the dataset was obtained from the National Fire Protection Association (NFPA) website.
